@@ -1,3 +1,8 @@
+> [!NOTE]
+> This is created as an example site for [puppeteer-velo-test-kit](https://github.com/wix-incubator/puppeteer-velo-test-kit).
+
+---
+
 # Git Integration & Wix CLI <img align="left" src="https://user-images.githubusercontent.com/89579857/185785022-cab37bf5-26be-4f11-85f0-1fac63c07d3b.png">
 
 This repo is part of Git Integration & Wix CLI, a set of tools that allows you to write, test, and publish code for your Wix site locally on your computer. 
